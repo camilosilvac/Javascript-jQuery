@@ -1,0 +1,13 @@
+#container {
+    height: 600px;
+    width: 600px;
+    background-color: black;
+}
+
+.square {
+    background-color: white;
+    height: 36.375px;
+    width: 36.375px;
+    margin: 0.5px;
+    float: left;
+}
